@@ -13,6 +13,7 @@ It has three main services :
 
 Each services live as separate entity and does not have code dependency to other services. It is only bound by API contract.
 
+It is utilizing spring boot with embedded tomcat.
 
 
 
